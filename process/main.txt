@@ -1,0 +1,33 @@
+// Our Values: Transparency, Availability, Quality
+
+Client Meeting
+
+Inception
+  Sketch
+  Inspiration
+  User flows
+  Sitemaps
+
+Explore & Iterate (Figma / XD / Canva)
+  Wireframes
+  Prototyping
+  Getting Feedback
+
+Visual Design
+  Accessibility
+  Typography
+  Forms & UI Elements
+  Gridds & Spacing
+  Color Theme
+  Imagery & Iconography
+
+Design Exploration
+  Design Patterns
+  Mobile Design
+  Microinteractions
+  Motion
+  Applying Visual Design
+  
+Delivery
+  Final Compositions
+  Design Systems
