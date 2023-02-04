@@ -9,3 +9,5 @@ Tags:
 - Does your checkout increase efficiency?
 - Does your checkout improve customer experience?
 > See what a better checkout can do.
+
+End.
