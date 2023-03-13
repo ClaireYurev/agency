@@ -10,4 +10,4 @@ Tags:
 - Does your checkout improve customer experience?
 > See what a better checkout can do.
 
-End.1
+End . 1
